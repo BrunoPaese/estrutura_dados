@@ -1,3 +1,5 @@
+package buscas;
+
 import java.util.List;
 
 public class BuscaSequencial {

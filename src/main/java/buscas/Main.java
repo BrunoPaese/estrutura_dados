@@ -1,3 +1,5 @@
+package buscas;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,7 +23,7 @@ public class Main {
 
         /*
          *** BUSCA SEQUENCIAL ***
-        BuscaBinaria buscaBinaria = new BuscaBinaria(lista, -10);
+        buscas.BuscaBinaria buscaBinaria = new buscas.BuscaBinaria(lista, -10);
         System.out.println(buscaBinaria.isEncontrou());
         */
 
